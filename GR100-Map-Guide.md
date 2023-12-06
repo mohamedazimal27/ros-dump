@@ -1,4 +1,4 @@
-# GR-100 Readme
+# GR-100 Map Guide
 
 This repository contains instructions and commands for setting up and running the GR-100 navigation and mapping system.
 
